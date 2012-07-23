@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": 0,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"DocBlockr",
+		"Jade",
+		"LESS",
+		"Package Control",
+		"PHP-Twig",
+		"Sass",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Soda",
+		"Xdebug"
+	]
+}
