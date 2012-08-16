@@ -12,6 +12,7 @@ alias ls='ls -G'
 # GIT
 alias gd="git diff | mate"
 alias ga="git add"
+alias gt="git tag -n1"
 alias gbd="git branch -D"
 alias gst="git status"
 alias gca="git commit -a -m"
