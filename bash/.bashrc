@@ -1,3 +1,4 @@
+#[[ $TERM != "screen" ]] && exec tmux
 
 PS1="\u@\h:\w \$ "
 
@@ -18,4 +19,8 @@ export PATH="~/local/bin:/usr/local/bin:/usr/local/git/bin:/usr/local/Cellar/rub
 
 
 export LC_ALL="C"
+
+# Setting for the new UTF-8 terminal support in Lion
+export LC_CTYPE=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
 
