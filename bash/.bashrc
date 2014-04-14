@@ -25,5 +25,10 @@ export LC_CTYPE=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 
 
+
+export LOLCOMMITS_FORK=1
+export LOLCOMMITS_DIR="/Users/enyo/Google Drive/lolcommits/"
+
+
 # Makes sure that all GUI apps have access to the $PATH
 launchctl setenv PATH $PATH
