@@ -1,1 +1,1 @@
-This repo moved to GitLab: https://github.com/enyo/settings.git
+This repo moved to GitLab: https://gitlab.com/meno/settings
