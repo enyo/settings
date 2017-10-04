@@ -1,8 +1,0 @@
-# http://git-scm.com/book/en/Customizing-Git-Git-Configuration
-[user]
-  name = Matias Meno
-  email = m@tias.me
-[color]
-  ui = true # Available since v1.5.5
-[push]
-  default = tracking
